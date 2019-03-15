@@ -1,0 +1,2371 @@
+[ 2019-03-11T06:02:05+08:00 ] 218.70.254.18 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:02:06+08:00 ] 218.70.254.18 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:02:16+08:00 ] 218.70.254.18 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+SQL: select name, password from user where name ='admin' and password = 'c6370d6089bc9b3f393b6e66266d9274' [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:02:17+08:00 ] 218.70.254.18 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:02:17+08:00 ] 218.70.254.18 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2019-03-11T06:02:17+08:00 ] 218.70.254.18 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:02:17+08:00 ] 218.70.254.18 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:02:19+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2019-03-11T06:14:31+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:19:51+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:24:06+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:27:10+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:34:00+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:44:14+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:45:15+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T06:55:48+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:14+08:00 ] 183.134.50.44 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:15+08:00 ] 183.134.50.44 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:16+08:00 ] 183.134.50.44 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:18+08:00 ] 183.134.50.44 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:19+08:00 ] 42.236.10.124 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2019-03-11T07:06:20+08:00 ] 183.134.50.44 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+SQL: select name, password from user where name ='admin' and password = 'c6370d6089bc9b3f393b6e66266d9274' [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:22+08:00 ] 183.134.50.44 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:22+08:00 ] 183.134.50.44 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:23+08:00 ] 42.236.10.124 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:24+08:00 ] 42.236.10.114 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:25+08:00 ] 42.236.10.92 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:26+08:00 ] 42.236.10.117 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:28+08:00 ] 42.236.10.78 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:06:28+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:07:21+08:00 ] 183.134.50.44 /Admin/Guestbook/initReadGuestbook/3791
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` WHERE ( id = 3791 )  [ RunTime:0.0000s ]
+SQL: UPDATE `guestbook` SET `is_read`='1' WHERE ( id = '3791' ) [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:07:34+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:07:42+08:00 ] 183.134.50.44 /Admin/Guestbook/initexportList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:07:44+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:07:55+08:00 ] 183.134.50.44 /Admin/Guestbook/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: DELETE FROM `guestbook` WHERE `id` IN ('3791','') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T07:07:56+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:19:24+08:00 ] 218.70.254.18 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:19:26+08:00 ] 218.70.254.18 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+SQL: select name, password from user where name ='admin' and password = 'c6370d6089bc9b3f393b6e66266d9274' [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:19:27+08:00 ] 218.70.254.18 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:19:27+08:00 ] 218.70.254.18 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:19:29+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:19:30+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:19:31+08:00 ] 218.70.254.18 /Admin/Guestbook/initexportList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:29+08:00 ] 183.134.50.44 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:30+08:00 ] 183.134.50.44 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:32+08:00 ] 183.134.50.44 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:33+08:00 ] 183.134.50.44 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:35+08:00 ] 183.134.50.44 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+SQL: select name, password from user where name ='admin' and password = 'c6370d6089bc9b3f393b6e66266d9274' [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:36+08:00 ] 183.134.50.44 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:36+08:00 ] 183.134.50.44 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:40+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:48+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:49+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:51+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:52+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:54+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T08:20:56+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:03:17+08:00 ] 183.134.50.44 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:03:19+08:00 ] 183.134.50.44 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.031250s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.031250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:03:20+08:00 ] 183.134.50.44 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:03:22+08:00 ] 183.134.50.44 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:03:24+08:00 ] 183.134.50.44 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+SQL: select name, password from user where name ='admin' and password = 'c6370d6089bc9b3f393b6e66266d9274' [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:03:25+08:00 ] 183.134.50.44 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:03:25+08:00 ] 183.134.50.44 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:03:30+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:07:03+08:00 ] 218.70.254.18 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:07:05+08:00 ] 218.70.254.18 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+SQL: select name, password from user where name ='admin' and password = 'c6370d6089bc9b3f393b6e66266d9274' [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:07:06+08:00 ] 218.70.254.18 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:07:06+08:00 ] 218.70.254.18 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:07:08+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:16:48+08:00 ] 113.90.95.201 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:16:56+08:00 ] 113.90.95.201 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+SQL: select name, password from user where name ='admin' and password = 'c6370d6089bc9b3f393b6e66266d9274' [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:16:57+08:00 ] 113.90.95.201 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:16:57+08:00 ] 113.90.95.201 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:17:00+08:00 ] 113.90.95.201 /Admin/Option/param
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info` WHERE ( id = '1' )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:17:07+08:00 ] 113.90.95.201 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T09:24:18+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T12:24:00+08:00 ] 218.70.254.18 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T12:24:02+08:00 ] 218.70.254.18 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+SQL: select name, password from user where name ='admin' and password = 'c6370d6089bc9b3f393b6e66266d9274' [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T12:24:03+08:00 ] 218.70.254.18 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T12:24:03+08:00 ] 218.70.254.18 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T12:24:05+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015625s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T12:26:48+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T12:46:06+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T12:52:36+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T12:56:01+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T13:06:40+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T13:10:58+08:00 ] 218.70.254.18 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T13:17:02+08:00 ] 183.134.50.44 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T13:17:03+08:00 ] 183.134.50.44 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T13:17:05+08:00 ] 183.134.50.44 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T13:17:06+08:00 ] 183.134.50.44 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T13:17:08+08:00 ] 183.134.50.44 /Admin/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+SQL: select name, password from user where name ='admin' and password = 'c6370d6089bc9b3f393b6e66266d9274' [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T13:17:10+08:00 ] 183.134.50.44 /Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T13:17:10+08:00 ] 183.134.50.44 /Admin/Index/sayHello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [2] mysql_get_server_info(): A link to the server could not be established D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: count D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: hostip D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\IndexController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-11T13:17:14+08:00 ] 183.134.50.44 /Admin/Guestbook/initGuestbookList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: fromtime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 13 行.
+NOTIC: [8] Undefined index: totime D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 14 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 15 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 24 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 29 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 34 行.
+NOTIC: [8] Undefined index: field D:\phpStudy\WWW\hua\wwwroot\Application\Admin\Controller\GuestbookController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `guestbook` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `guestbook` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `guestbook` ORDER BY create_time desc LIMIT 0,13   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

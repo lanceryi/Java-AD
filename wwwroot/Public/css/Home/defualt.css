@@ -1,0 +1,129 @@
+﻿body{font-size:12px;font-family: "宋体";color:#666;-webkit-text-size-adjust:none;background:#FFF;min-width:320px;}
+body,input,button,textarea,select{font-family:"\5FAE\8F6F\96C5\9ED1",Helvetica;-webkit-text-size-adjust:none;font:normal 14px/1.5 helvetica,verdana,san-serif;outline:none;color:#333}
+*{margin:0;padding:0;}
+html,body,menu,ul,ol,li,p,div,form,h1,h2,h3,h4,h5,h6,img,a img,input,button,textarea,fieldset{padding:0;margin:0;border:0;font-size:13px;}
+h1,h2,h3,h4,h5,h6{font-size:1em;font-weight:normal;font-family:"微软雅黑";}
+ul,ol,li{list-style:none}
+em{ font-style:normal;}
+a{ text-decoration:none;color:#666;}
+a strong{ visibility:hidden;}
+img{margin:0;padding:0;border:none;}
+.none{display:block;}
+.pipe{padding:0 10px;}
+input,select{ vertical-align:middle;}
+input[type="text"],input[type="password"],input[type="button"],input[type="submit"],button,textarea{-webkit-appearance:none}
+.img img,video{vertical-align:middle}
+.clear{ clear:both;}
+
+/*top_nav*/
+.top {width:100%; height:49px;box-shadow:2px 2px 5px #d5d5d5;margin-bottom:5px;}
+.logo {width:130px; height:40px; overflow:hidden; padding-right:20px; position:absolute; left:10px; top:5px;}
+/*old  1003样式其他未加数字为公用样式*/
+.head640 {overflow:hidden;min-width:320px;max-width:640px;height:49px; margin:0 auto;position:relative;}
+
+.top_m {width:100%; height:40px; overflow:hidden; line-height:40px; position:absolute; left:185px; top:5px;}
+.top_m ul {text-align:center;}
+.top_m ul li {/* width:68px;*/float:left;overflow:hidden;}
+.top_m ul li.last {background:none;}
+.top_m ul li a {color:#000; padding:0 10px; _padding:0 5px 0 10px;}
+.top_m ul li a:hover {color:#f00; }
+
+
+.wrap{width:100%;margin:0 auto;overflow:hidden;}
+
+.head{height:54px;margin:0 auto;overflow:hidden;}
+.head h1{width:100%;height:54px;text-align:center;}
+.head h1 a{display:inline-block;width:320px;height:54px;}
+
+.main_nav{height:36px;width:100%;padding:10px 0;overflow:hidden;background:url(../images/phone_bg.png)  repeat-x 0 0;}
+.main_nav  p{width:100%;overflow:hidden;height:20px;}
+.main_nav a{width:25%;display:inline-block;float:left;color:#FFF;font-size:13px;font-family:"微软雅黑";text-align:center;background:url(/web/img/phone_bg.png)  no-repeat right -62px;height:20px;line-height:20px;_line-height:18px;}
+.main_nav a:nth-child(4n){background:none;}
+
+.search{width:100%;padding:10px 0;overflow:hidden;text-align:center;}
+.is_text{width:210px;border:none;border:2px solid #FD3639;height:22px;text-indent:12px;line-height:22px;}
+.is_btn{width:44px;height:26px;border:none;line-height:26px;background:url(../images/phone_bg.png)  no-repeat 0 -100px; cursor:pointer;}
+
+
+.pic{width:100%;padding-bottom:10px;text-align:center;margin:0 auto;}
+.pic a{display:inline-block;width:148px;height:98px;border:1px solid #DAD9D7;}
+.pic a img{widht:148px;height:98px;}
+
+.busin_list{width:100%;overflow:hidden;margin:0 auto;}
+
+.list_title{width:100%;height:32px;background:url(../images/phone_bg.png)  repeat-x 0 -135px;}
+.list_title h3{background:url(../images/phone_bg.png) repeat-x 0 -405px;color:#000;font-size:14px;font-family:"微软雅黑";line-height:31px;padding-left:18px;width:165px;text-indent:0;}
+.list_title h3 a{color:#000;font-size:14px;font-family:"微软雅黑";}
+
+.T_floor,.Th_floor{margin-top:7px;}
+.T_floor h3{background-position:0 -225px;}
+.Th_floor h3{background-position:0 -270px;}
+
+.list_sheet{width:94%;margin:0 auto;overflow:hidden;}
+.list_sheet a{display:block;height:34px;border-bottom:1px solid #F2F2F2;line-height:34px;font-family:"微软雅黑";font-size:15px;background:url(/web/img/phone_bg.png)  no-repeat right -358px; }
+.list_sheet a span{display:inline-block;width:18px;height:34px;line-height:34px;background:url(../images/phone_bg.png)  no-repeat -302px -173px;text-align:center;padding-right:10px;color:#CCCACD;}
+.list_sheet a span.pipe{padding-left:0;background-position:-301px -216px;color:#E43C3C;}
+.list_sheet a em{display:inline-block;width:20px;height:12px;background:url(../images/phone_bg.png)  no-repeat -300px -270px;position:relative;left:5px;top:0;_top:10px;}
+
+.copyright{width:100%;overflow:hidden;/*height:84px;*/background:#EAEAEA;}
+.copyright p{width:100%;text-align:center;line-height:16px;margin-top: 9px;margin-bottom: 9px;font-size:14px;font-family:"微软雅黑";}
+.copyright p a{font-size:14px;font-family:"微软雅黑";}
+
+
+/*79创业网*/
+/*background:url(/web/img/phone_bg.png)  no-repeat 0 -320px;*/
+#share{ 
+    width: 37px;
+	height:36px;
+    position: fixed;
+	left:15px;
+    bottom: 53px;
+    cursor: pointer;
+	_position:absolute;
+	_bottom:auto;
+	_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));
+	_margin-bottom:53px;
+	 }
+#share a{display:block;width:100%;height:36px;overflow:hidden;}
+
+/*top*/
+#backToTop { background:url(../images/phone_bg.png)  no-repeat -299px -320px;
+    width: 19px;
+	height:19px;
+    position: fixed;
+    _position: absolute;
+    right:15px;
+    bottom: 62px;
+    _bottom: "auto";
+    cursor: pointer;
+	_position:absolute;
+	_bottom:auto;
+	_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));
+	_margin-bottom:62px;
+}
+#sbackToTop a{display:block;width:100%;height:19px;overflow:hidden;}
+
+
+
+.div_pfix{bottom: 0px;position: fixed;height:50px;width: 100%;z-index:9999;}
+.div_pfix span{color: #fff; display: block;float: left;text-align: center;}
+.div_pfix a{color: #fff;line-height: 50px;height:50px;text-align: center; display: block; font-size:16px; font-weight:bold}
+.div_pfix a img{vertical-align:middle;}
+.div_pfix .sp3{width: 50%; background:#ff9402;height: 50px}
+.div_pfix .sp3 img{width:30px;vertical-align:-4px;}
+.div_pfix .sp4{width: 50%;background:#ff363a;height: 50px}
+.div_pfix .sp4 img{width:30px;vertical-align:-4px;}
+
+
+.liuyan{ width:100%; margin:auto; background:#d92026; padding:10px 0; overflow:hidden;}
+
+.liuyan .lybg{ width:90%; margin:auto; background:url(../imgs/bg.jpg) repeat; border-radius:10px; padding:20px 0;}
+.liuyan .lybg .ly-top{ width:90%; margin:auto; text-align:center; color:#fff; font-size:1.5rem; font-weight:600;}
+.liuyan .lybg .ly-top img{ display: block; margin:auto;}
+.liuyan .lybg .ly-form{ margin:auto; background:#fff; padding:20px 0px; margin-top:20px; overflow:hidden;}
+.liuyan .lybg .ly-form .input-m{ margin-top:10px;}
+.liuyan .lybg .ly-form .input-m label{ width:20%; float:left; line-height:34px; text-align:right;}
+.liuyan .lybg .ly-form .input-m .text{ width:70%; float:left; display:inline-block; margin-left:10px;}
+.liuyan .lybg .ly-form .input-m .text .form-control{ width:100%; border:#ddd 1px solid; border-radius:5px; padding:6px 0px; color:#999; overflow:hidden; text-indent:5px;}
+.liuyan .lybg .ly-form .input-m .text .btn{ width:100%; overflow:hidden; color: #fff; background-color: #c9302c;border-color: #ac2925; padding:6px 12px}
+.form-group{ padding:0px;}

@@ -1,0 +1,79 @@
+<?php if (!defined('THINK_PATH')) exit();?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/Public/css/Admin/main/main.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="/Public/js/Admin/jquery.js"></script>
+<script type="text/javascript" src="/Public/js/Admin/main/eva.js"></script>
+<title>网站后台管理系统</title>
+</head>
+<body class="layout">
+	
+	<div id="header">		
+		<div class="logo"></div>
+		<div class="nav">
+			<div style="height:4px; overflow:hidden;"></div>
+			<div class="nav-top">
+				<ul>
+					<li><a href="#operate" class="selected"><span>后台首页</span></a></li>
+					<li><a href="#establish"><span>参数设置</span></a></li>
+					<li><a href="#system-a"><span>留言管理</span></a></li>
+				</ul>
+				<div class="c"></div>
+			</div>
+			<div class="nav-bottom">
+				<ul>
+					<li><span>欢迎您：<span style="color:red;">&nbsp;[&nbsp;<?php echo ($value = session('admin')); ?>&nbsp;]</span> &nbsp;&nbsp;|</span></li>
+					<li><a href="/Admin/Index/destroy">退出</a>&nbsp;&nbsp;|</li>
+					<li><a href="/Admin/Index/initUpdatePwd"  target="main">修改密码</a>&nbsp;&nbsp;|</li>
+					<li><a href="/" target="_blank">访问首页</a></li>
+				</ul>
+				<div class="c"></div>
+			</div>	
+		</div>
+		<div class="c"></div>
+	</div>
+
+	<div id="menu">
+		<div id="operate" class="sub-nav operate" style="display:block;">
+			<h4>首页</h4>
+			<div class="lines1"></div>
+			<ul>
+				<li><a href="/Admin/Index/sayHello" target="main"><span>后台首页</span></a></li>
+			</ul>
+		</div>
+			
+		<div id="establish" class="sub-nav">
+			<h4>参数设置</h4>
+			<div class="lines1"></div>
+			<ul>
+				<li><a href="/Admin/Option/param" target="main" ><span>参数设置</span></a></li>				
+			</ul>
+		</div>
+
+		<div id="system-a" class="sub-nav">
+			<h4>留言管理</h4>
+			<div class="lines1"></div>
+			<ul>	
+				<li>
+					<a href="/Admin/Guestbook/initGuestbookList" target="main" >
+						<span>查看留言</span>
+					</a>
+				</li>	
+				<li>
+					<a href="/Admin/Guestbook/initexportList" target="main" >
+						<span>导出留言</span>
+					</a>
+				</li>				
+			</ul>
+		</div>
+
+	</div>
+	
+	<div id="master">	
+		<iframe id="main" name="main" frameborder="no" src="/Admin/Index/sayHello"></iframe>
+	</div>
+
+</body>
+</html>

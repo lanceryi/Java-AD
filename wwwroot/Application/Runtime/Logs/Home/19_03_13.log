@@ -1,0 +1,1943 @@
+[ 2019-03-13T00:00:23+08:00 ] 61.135.169.41 /?source=baidu&plan=wuyajinci&unit=zhaogongzuoxinxi&keyword=zhaogongzuoxinxi&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916167590
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '61.135.169.41' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T00:56:15+08:00 ] 122.246.5.130 /?source=baidu&plan=iii&unit=fujinchangzhaogong&keyword=fujinchangzhaogong&e_creative={creative}&e_keywordid={keywordid}&e_keywordid2=97052931760
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '122.246.5.130' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('122.246.5.130','1','1552411575') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T00:56:36+08:00 ] 122.246.5.150 /?source=baidu&plan=kangshunda&unit=gongzuozhao&keyword=gongzuozhao&e_creative={creative}&e_keywordid={keywordid}&e_keywordid2=96916155254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '122.246.5.150' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('122.246.5.150','1','1552411596') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T06:01:22+08:00 ] 211.149.139.196 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '211.149.139.196' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('211.149.139.196','1','1552429882') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 200 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 201 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2019-03-13T06:19:52+08:00 ] 36.110.199.49 /?source=baidu&plan=1&unit=ruhezhaogongzuo&keyword=ruhezhaogongzuo&e_creative=24953828832&e_keywordid=96916153116&e_keywordid2=96916153116
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.49' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('36.110.199.49','1','1552430992') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T06:52:17+08:00 ] 117.150.72.53 /?source=baidu&plan=1&unit=%E6%B1%82%E8%81%8C&keyword=qiuzhi&e_creative=24953828838&e_keywordid=96916153098&e_keywordid2=96916153098
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '117.150.72.53' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('117.150.72.53','1','1552432937') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T07:33:28+08:00 ] 211.149.139.196 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '211.149.139.196' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('211.149.139.196','1','1552435408') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 200 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 201 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T07:37:41+08:00 ] 122.246.5.145 /?source=baidu&plan=kangshunda&unit=zuoshougong&keyword=zuoshougong&e_creative={creative}&e_keywordid={keywordid}&e_keywordid2=96916155149
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '122.246.5.145' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('122.246.5.145','1','1552435661') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T07:52:25+08:00 ] 36.110.199.15 /?source=baidu&plan=shougong123&unit=benrenjizhaoyimingzhongdiangong&keyword=benrenjizhaoyimingzhongdiangong&e_creative=24953828816&e_keywordid=96916157176&e_keywordid2=96916157176
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.15' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2019-03-13T07:54:30+08:00 ] 61.129.6.251 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '61.129.6.251' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T08:00:10+08:00 ] 111.206.36.10 /?source=baidu&plan=wuyajinci&unit=zhaolinshigong&keyword=zhaolinshigong&e_creative=24953828796&e_keywordid=96916167738&e_keywordid2=96916167738
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '111.206.36.10' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T08:00:40+08:00 ] 14.215.176.133 /?source=baidu&plan=ceshi&unit=zhaogongxinxi&keyword=zhaogongxinxi&e_creative=24953828697&e_keywordid=96916156727&e_keywordid2=96916156727
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.133' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.133','1','1552437040') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T08:01:56+08:00 ] 14.215.176.142 /?source=baidu&plan=wuyajinci&unit=%E6%8B%9B%E5%B7%A5%E6%99%AE%E5%B7%A5&keyword=zhaogongpugong&e_creative=24953828792&e_keywordid=96916167743&e_keywordid2=96916167743
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.142' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.142','1','1552437115') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T08:03:07+08:00 ] 180.97.35.91 /?source=baidu&plan=wuyajinci&unit=zhaogongzuoqiuzhi&keyword=zhaogongzuoqiuzhi&e_creative=24953828799&e_keywordid=96916167657&e_keywordid2=96916167657
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '180.97.35.91' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('180.97.35.91','1','1552437187') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T08:14:13+08:00 ] 122.246.5.65 /?source=baidu&plan=iii&unit=dianzichangzhaogong&keyword=dianzichangzhaogong&e_creative={creative}&e_keywordid={keywordid}&e_keywordid2=97052931658
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '122.246.5.65' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('122.246.5.65','1','1552437853') [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T08:30:49+08:00 ] 171.13.14.27 133.130.126.119:43
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '171.13.14.27' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('171.13.14.27','1','1552438849') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015625s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 200 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 201 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T08:58:58+08:00 ] 14.215.176.20 /?source=baidu&plan=ceshi&unit=gongchangzhaogong&keyword=gongchangzhaogong&e_creative=24953828704&e_keywordid=96916156738&e_keywordid2=96916156738
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.20' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T09:00:57+08:00 ] 211.149.139.196 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '211.149.139.196' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('211.149.139.196','1','1552440657') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 200 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 201 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T09:56:22+08:00 ] 36.110.199.176 /?source=baidu&plan=bbb&unit=zhaopinhuixinxi&keyword=zhaopinhuixinxi&e_creative=24974648739&e_keywordid=97052932749&e_keywordid2=97052932749
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.176' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T10:19:27+08:00 ] 122.246.5.105 /?source=baidu&plan=hongran&unit=zhaozaijiazuodegongzuo&keyword=zhaozaijiazuodegongzuo&e_creative={creative}&e_keywordid={keywordid}&e_keywordid2=96916155133
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0156s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '122.246.5.105' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('122.246.5.105','1','1552445367') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T10:32:04+08:00 ] 124.251.57.75 /?source=baidu&plan=wuyajinci&unit=zhaogongpugong&keyword=zhaogongpugong&e_creative=24953828792&e_keywordid=96916167743&e_keywordid2=96916167743
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '124.251.57.75' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('124.251.57.75','1','1552446124') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2019-03-13T10:48:19+08:00 ] 14.215.176.149 /?source=baidu&plan=wuyajinci&unit=58tongchengzhaogongzuo&keyword=58tongchengzhaogongzuo&e_creative=24953828792&e_keywordid=96916167733&e_keywordid2=96916167733
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.149' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T10:49:29+08:00 ] 124.251.57.88 /?source=baidu&plan=wuyajinci&unit=xiaoshigong&keyword=xiaoshigong&e_creative=24953828792&e_keywordid=96916167631&e_keywordid2=96916167631
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '124.251.57.88' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('124.251.57.88','1','1552447169') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T10:52:01+08:00 ] 122.246.5.110 /?source=baidu&plan=iii&unit=fujindianzichangzhaogong&keyword=fujindianzichangzhaogong&e_creative={creative}&e_keywordid={keywordid}&e_keywordid2=97052931653
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '122.246.5.110' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('122.246.5.110','1','1552447321') [ RunTime:0.0469s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T10:52:23+08:00 ] 111.206.36.8 /?source=baidu&plan=wuyajinci&unit=woxiangzhaogongzuo&keyword=woxiangzhaogongzuo&e_creative=24953828796&e_keywordid=96916167787&e_keywordid2=96916167787
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '111.206.36.8' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T10:53:32+08:00 ] 14.215.176.12 /?source=baidu&plan=wuyajinci&unit=qiuzhizhaogongzuo&keyword=qiuzhizhaogongzuo&e_creative=24953828796&e_keywordid=96916167637&e_keywordid2=96916167637
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.12' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.12','1','1552447412') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T11:04:03+08:00 ] 14.215.176.142 /?source=baidu&plan=iii&unit=dianzichangzhaogongxinxi&keyword=dianzichangzhaogongxinxi&e_creative=24974648771&e_keywordid=97052931747&e_keywordid2=97052931747
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.142' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.142','1','1552448043') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T11:29:50+08:00 ] 36.110.199.135 /?source=baidu&plan=wuyajinci&unit=chuanzhushougonghuo&keyword=chuanzhushougonghuo&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916167645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.135' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T11:32:06+08:00 ] 14.215.176.134 /?source=baidu&plan=ceshi&unit=gongzuozhao&keyword=gongzuozhao&e_creative=24953828697&e_keywordid=96916155001&e_keywordid2=96916155001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.134' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.134','1','1552449726') [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T11:32:50+08:00 ] 14.215.176.5 /?source=baidu&plan=wuyajinci&unit=yingjiebiyeshengqiuzhiwang&keyword=yingjiebiyeshengqiuzhiwang&e_creative=24953828792&e_keywordid=96916167646&e_keywordid2=96916167646
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.5' ) LIMIT 1   [ RunTime:0.0156s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.5','1','1552449770') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T11:49:24+08:00 ] 36.110.199.139 /?source=baidu&plan=kangshunda&unit=gongzuozhao&keyword=gongzuozhao&e_creative=24953828858&e_keywordid=96916155254&e_keywordid2=96916155254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.139' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T11:57:09+08:00 ] 14.215.176.13 /?source=baidu&plan=iii&unit=fujingongchangzhaogong&keyword=fujingongchangzhaogong&e_creative=24974648772&e_keywordid=97052931766&e_keywordid2=97052931766
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.13' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.13','1','1552451229') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T11:59:32+08:00 ] 180.97.35.37 /?source=baidu&plan=iii&unit=dianzichangzhaogongxinxi&keyword=dianzichangzhaogongxinxi&e_creative=24974648784&e_keywordid=97052931747&e_keywordid2=97052931747
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '180.97.35.37' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('180.97.35.37','1','1552451372') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T12:19:06+08:00 ] 122.246.5.105 /?source=baidu&plan=kangshunda&unit=qiuzhizhaogongzuo&keyword=qiuzhizhaogongzuo&e_creative={creative}&e_keywordid={keywordid}&e_keywordid2=96916155181
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '122.246.5.105' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('122.246.5.105','1','1552452546') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T13:02:52+08:00 ] 124.251.57.76 /?source=baidu&plan=wuyajinci&unit=jintianzhaogong&keyword=jintianzhaogong&e_creative=24953828799&e_keywordid=96916167805&e_keywordid2=96916167805
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '124.251.57.76' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('124.251.57.76','1','1552455172') [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T13:42:33+08:00 ] 124.251.57.117 /?source=baidu&plan=ceshi&unit=dianzichangzhaogong&keyword=dianzichangzhaogong&e_creative=24953828705&e_keywordid=96916156743&e_keywordid2=96916156743
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '124.251.57.117' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('124.251.57.117','1','1552457553') [ RunTime:0.0469s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T13:55:50+08:00 ] 124.251.57.72 /?source=baidu&plan=ceshi&unit=zhaogongpugong&keyword=zhaogongpugong&e_creative=24953828697&e_keywordid=96916154959&e_keywordid2=96916154959
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '124.251.57.72' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('124.251.57.72','1','1552458350') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T15:19:52+08:00 ] 172.105.196.199 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '172.105.196.199' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('172.105.196.199','1','1552463392') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 200 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 201 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T15:52:02+08:00 ] 196.52.43.61 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '196.52.43.61' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('196.52.43.61','1','1552465322') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 200 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 201 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T15:54:41+08:00 ] 36.110.199.244 /?source=baidu&plan=wuyajinci&unit=tongcheng58zhaogongzuo&keyword=tongcheng58zhaogongzuo&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916167747
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.244' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T16:30:09+08:00 ] 122.246.5.145 /?source=baidu&plan=hongran&unit=zhaogongzuo&keyword=zhaogongzuo&e_creative={creative}&e_keywordid={keywordid}&e_keywordid2=96916155026
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '122.246.5.145' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('122.246.5.145','1','1552467609') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T16:34:53+08:00 ] 122.14.218.135 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '122.14.218.135' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('122.14.218.135','1','1552467892') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 200 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 201 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T16:57:24+08:00 ] 223.77.52.79 /?source=baidu&plan=1&unit=%E6%B1%82%E8%81%8C&keyword=qiuzhi&e_creative=24953828838&e_keywordid=96916153098&e_keywordid2=96916153098
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '223.77.52.79' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('223.77.52.79','1','1552469244') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T17:57:06+08:00 ] 109.193.41.131 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '109.193.41.131' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('109.193.41.131','1','1552472825') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 200 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 201 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T18:14:36+08:00 ] 183.240.92.148 /?source=baidu&plan=ceshi&unit=zhaogongqiuzhi&keyword=zhaogongqiuzhi&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916154898
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '183.240.92.148' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('183.240.92.148','1','1552473876') [ RunTime:0.0313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T18:21:52+08:00 ] 183.240.92.148 /?source=baidu&plan=iii&unit=zhaogongxinxi&keyword=zhaogongxinxi&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931689
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '183.240.92.148' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `t_check` SET `ip`='183.240.92.148',`timeout`='1552473876',`count`='2',`disable`='0' WHERE `id` = 7035 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T18:24:28+08:00 ] 36.110.199.135 /?source=baidu&plan=kangshunda&unit=zhaoxiaoshigonggongzuo&keyword=zhaoxiaoshigonggongzuo&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916155171
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.135' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T18:25:14+08:00 ] 122.246.5.150 /?source=baidu&plan=hongran&unit=zhaolinshigong&keyword=zhaolinshigong&e_creative={creative}&e_keywordid={keywordid}&e_keywordid2=96916155073
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '122.246.5.150' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('122.246.5.150','1','1552474514') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T18:29:05+08:00 ] 14.215.176.70 /?source=baidu&plan=iii&unit=zhaogongpugong&keyword=zhaogongpugong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931681
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.70' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.70','1','1552474745') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T18:30:07+08:00 ] 14.215.176.60 /?source=baidu&plan=iii&unit=zhaogongpugong&keyword=zhaogongpugong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931681
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.60' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.60','1','1552474807') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T18:38:09+08:00 ] 183.240.92.149 /?source=baidu&plan=ceshi&unit=jizhao&keyword=jizhao&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916156757
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '183.240.92.149' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('183.240.92.149','1','1552475289') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T18:42:49+08:00 ] 36.110.199.65 /?source=baidu&plan=hongran&unit=xiaoshigong&keyword=xiaoshigong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916154935
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0156s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.65' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:06:39+08:00 ] 36.110.199.174 /?source=baidu&plan=3&unit=58tongchengzhaogongzuo&keyword=58tongchengzhaogongzuo&e_creative=24953828853&e_keywordid=96916152923&e_keywordid2=96916152923
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.174' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:08:27+08:00 ] 36.110.199.137 /?source=baidu&plan=wuyajinci&unit=zhaogongxinxi&keyword=zhaogongxinxi&e_creative=24953828799&e_keywordid=96916167791&e_keywordid2=96916167791
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.137' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:12:26+08:00 ] 14.215.176.149 /?source=baidu&plan=ceshi&unit=dianzichangzhaogongxinxi&keyword=dianzichangzhaogongxinxi&e_creative=24953828704&e_keywordid=96916154975&e_keywordid2=96916154975
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.149' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:17:21+08:00 ] 14.215.176.8 /?source=baidu&plan=ceshi&unit=fuzhuangchangzhaogong&keyword=fuzhuangchangzhaogong&e_creative=24953828707&e_keywordid=96916154928&e_keywordid2=96916154928
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.8' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.8','1','1552477641') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:38:16+08:00 ] 183.240.92.174 /?source=baidu&plan=iii&unit=zhaogongqishi&keyword=zhaogongqishi&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931725
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '183.240.92.174' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('183.240.92.174','1','1552478896') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:39:18+08:00 ] 183.240.92.176 /?source=baidu&plan=iii&unit=zhaogongqishi&keyword=zhaogongqishi&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931725
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '183.240.92.176' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('183.240.92.176','1','1552478958') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:39:34+08:00 ] 14.215.176.61 /?source=baidu&plan=iii&unit=zhaogonglinshigong&keyword=zhaogonglinshigong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931656
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.61' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.61','1','1552478974') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:40:36+08:00 ] 14.215.176.71 /?source=baidu&plan=iii&unit=zhaogonglinshigong&keyword=zhaogonglinshigong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931656
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.71' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.71','1','1552479036') [ RunTime:0.0313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:42:01+08:00 ] 115.239.216.200 /?source=baidu&plan=iii&unit=fujingongchangzhaogong&keyword=fujingongchangzhaogong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931766
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '115.239.216.200' ) LIMIT 1   [ RunTime:0.0156s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('115.239.216.200','1','1552479121') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2019-03-13T19:43:03+08:00 ] 115.239.216.203 /?source=baidu&plan=iii&unit=fujingongchangzhaogong&keyword=fujingongchangzhaogong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931766
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015625s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '115.239.216.203' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('115.239.216.203','1','1552479183') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:48:20+08:00 ] 14.215.176.136 /?source=baidu&plan=iii&unit=%E6%9C%8D%E8%A3%85%E5%8E%82%E6%8B%9B%E5%B7%A5&keyword=fuzhuangchangzhaogong&e_creative=24974648771&e_keywordid=97052937093&e_keywordid2=97052937093
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.136' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.136','1','1552479500') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T19:52:02+08:00 ] 180.97.35.88 /?source=baidu&plan=ceshi&unit=zhaogongxinxidaquan&keyword=zhaogongxinxidaquan&e_creative=24953828701&e_keywordid=96916154965&e_keywordid2=96916154965
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '180.97.35.88' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('180.97.35.88','1','1552479722') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T20:35:34+08:00 ] 171.13.14.35 133.130.126.119:43
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Home\Controller\IndexController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '171.13.14.35' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('171.13.14.35','1','1552482334') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined index: keyword D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 200 行.
+NOTIC: [8] Undefined index: plan D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 201 行.
+NOTIC: [8] Undefined index: unit D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T20:35:45+08:00 ] 220.181.165.22 /?source=baidu&plan=iii&unit=gongdizhaogong&keyword=gongdizhaogong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052936693
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '220.181.165.22' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('220.181.165.22','1','1552482345') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015625s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T21:03:38+08:00 ] 36.110.199.64 /?source=baidu&plan=iii&unit=xianzaizhaogong&keyword=xianzaizhaogong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931752
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.64' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T21:03:38+08:00 ] 183.240.92.179 /?source=baidu&plan=iii&unit=xianzaizhaogong&keyword=xianzaizhaogong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931752
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '183.240.92.179' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('183.240.92.179','1','1552484018') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T21:04:40+08:00 ] 183.240.92.176 /?source=baidu&plan=iii&unit=xianzaizhaogong&keyword=xianzaizhaogong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931752
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '183.240.92.176' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('183.240.92.176','1','1552484080') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T21:17:12+08:00 ] 14.215.176.62 /?source=baidu&plan=iii&unit=linshigongzhaogong&keyword=linshigongzhaogong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931610
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.62' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.62','1','1552484832') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T21:18:14+08:00 ] 14.215.176.67 /?source=baidu&plan=iii&unit=linshigongzhaogong&keyword=linshigongzhaogong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=97052931610
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.67' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.67','1','1552484894') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T21:40:48+08:00 ] 36.110.199.136 /?source=baidu&plan=kangshunda&unit=zhaogongpugong&keyword=zhaogongpugong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916155282
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.136' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T21:40:49+08:00 ] 183.240.92.179 /?source=baidu&plan=kangshunda&unit=zhaogongpugong&keyword=zhaogongpugong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916155282
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '183.240.92.179' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('183.240.92.179','1','1552486249') [ RunTime:0.0313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T21:41:51+08:00 ] 183.240.92.174 /?source=baidu&plan=kangshunda&unit=zhaogongpugong&keyword=zhaogongpugong&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916155282
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '183.240.92.174' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('183.240.92.174','1','1552486311') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T22:05:45+08:00 ] 14.215.176.67 /?source=baidu&plan=wuyajinci&unit=zhaogongxinxi&keyword=zhaogongxinxi&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916167791
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.67' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.67','1','1552487745') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T22:06:46+08:00 ] 14.215.176.68 /?source=baidu&plan=wuyajinci&unit=zhaogongxinxi&keyword=zhaogongxinxi&e_creative=%7Bcreative%7D&e_keywordid=%7Bkeywordid%7D&e_keywordid2=96916167791
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '14.215.176.68' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `t_check` (`ip`,`count`,`timeout`) VALUES ('14.215.176.68','1','1552487806') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\hua\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T23:12:49+08:00 ] 36.110.199.45 /?source=baidu&plan=ceshi&unit=gongchangzhaogong&keyword=gongchangzhaogong&e_creative=24953828697&e_keywordid=96916156738&e_keywordid2=96916156738
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.45' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-03-13T23:17:50+08:00 ] 36.110.199.51 /?source=baidu&plan=wuyajinci&unit=fujinzhaogong&keyword=fujinzhaogong&e_creative=24953828796&e_keywordid=96916167656&e_keywordid2=96916167656
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0000s ]
+SQL: SELECT `phone` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `code` FROM `info` WHERE ( id = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `t_check` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_check` WHERE ( ip = '36.110.199.51' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

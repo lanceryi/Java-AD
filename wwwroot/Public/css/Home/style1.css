@@ -1,0 +1,8 @@
+@charset "gb2312";
+*{margin:0;padding:0;}
+ul,li,ol,dl,dt,dd {list-style:none;}
+/*全图片类型样式*/
+.xbox {overflow: hidden;min-width: 320px;max-width: 640px; margin:0 auto }
+.xbox div { width: 100%; margin: 0 auto; }
+.xbox div img { width: 100%; height: auto; vertical-align: top; display: block;min-width: 320px;max-width: 640px; }
+
